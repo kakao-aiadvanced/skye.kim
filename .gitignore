@@ -1,3 +1,5 @@
 .env
 openai-env
 .idea
+rag
+api_key.txt
